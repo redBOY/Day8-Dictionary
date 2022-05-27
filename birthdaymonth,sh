@@ -1,5 +1,4 @@
 #! /bin/bash -x
-
 declare -A same_month
 
 select_month=$(($RANDOM%12))
